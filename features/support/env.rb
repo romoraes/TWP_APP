@@ -1,5 +1,6 @@
-require "allure-cucumber"
-require "appium_lib"
+require 'allure-cucumber'
+require 'appium_lib'
+require 'pry'
 
 require "fileutils"
 
